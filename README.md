@@ -1,1 +1,2 @@
 # springmvcsearch
+This project contains an application where when the user enters a query inside the search box the user is redirected to the google search for the same query with the results for the query shown below the google search box. It is similar to what happens when you enter a query inside the google search. This project makes use of the RedirectView functionality in Spring MVC to redirect the URL to Google.
